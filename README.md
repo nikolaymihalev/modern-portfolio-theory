@@ -37,7 +37,6 @@ Open the notebook and select **Run All**. The dataset is included, so no API key
 - `data/` — normalized historical stock indices (2018–2019).
 - `figures/` — generated visualizations.
 - `results/` — experiment results in CSV format.
-- `requirements.txt` — Python dependencies.
 
 ## References and limitations
 
