@@ -1,0 +1,4 @@
+Portfolio,Training estimated return,Training estimated volatility,Held-out realized return,Held-out realized volatility
+Equal weight,0.1813232409,0.2225041008,0.3811584370,0.1340628405
+Optimized min variance,0.2219860241,0.2041737506,0.4399086582,0.1416825540
+Optimized max Sharpe,0.2865299353,0.2130390204,0.3403962419,0.1438896681
